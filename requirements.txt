@@ -1,0 +1,4 @@
+numpy
+backtrader
+tensorflow
+pandas
