@@ -1,0 +1,7 @@
+############################################################################
+Coin: DOGE     Candlesize: 1H
+
+Testzeitraum: 4     Tensor: 4     Modelevaluation: 1.0458343029022217     Takeprof/ Stoploss: 0.52
+Signale: 216     Trades: 30     postive Trades: 16     negative Trades: 14     Prozent: 95.07904100262948
+
+

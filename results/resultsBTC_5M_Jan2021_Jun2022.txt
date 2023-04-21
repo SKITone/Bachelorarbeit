@@ -1,0 +1,7 @@
+############################################################################
+Coin: BTC     Candlesize: 5M
+
+Testzeitraum: 12     Tensor: 4     Modelevaluation: 0.7775846123695374     Takeprof/ Stoploss: 0.11
+Signale: 17619     Trades: 3043     postive Trades: 1735     negative Trades: 1308     Prozent: 135.1758010947649
+
+

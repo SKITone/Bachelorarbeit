@@ -1,0 +1,7 @@
+############################################################################
+Coin: ETH     Candlesize: 30M
+
+Testzeitraum: 12     Tensor: 4     Modelevaluation: 0.783249020576477     Takeprof/ Stoploss: 0.33
+Signale: 7774     Trades: 196     postive Trades: 115     negative Trades: 81     Prozent: 85.89223346877527
+
+

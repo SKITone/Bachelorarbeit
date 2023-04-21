@@ -1,0 +1,7 @@
+############################################################################
+Coin: XRP     Candlesize: 30M
+
+Testzeitraum: 12     Tensor: 4     Modelevaluation: 0.8108589053153992     Takeprof/ Stoploss: 0.44
+Signale: 6588     Trades: 338     postive Trades: 209     negative Trades: 129     Prozent: 101.65435625741011
+
+

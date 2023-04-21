@@ -1,0 +1,7 @@
+############################################################################
+Coin: BNB     Candlesize: 30M
+
+Testzeitraum: 4     Tensor: 4     Modelevaluation: 0.928547739982605     Takeprof/ Stoploss: 0.2
+Signale: 6238     Trades: 559     postive Trades: 345     negative Trades: 214     Prozent: 111.17191566639009
+
+
